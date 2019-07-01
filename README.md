@@ -1,3 +1,4 @@
 # text-animation
 
-![This is the caption](/text-animation/img/1.gif)
+![This image won't be a figure](/text-animation/img/1.gif)\
+
